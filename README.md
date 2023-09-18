@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Sanju V Paulose, a computer science student who is passionate in the field of cybersecurity.
+I am here to share and gain some knowledge. 
+Lets gooo!!
 
 <!--
 **sanjuvp525666/sanjuvp525666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
